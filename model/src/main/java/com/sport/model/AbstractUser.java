@@ -1,3 +1,5 @@
+package com.sport.model;
+
 import java.util.Objects;
 
 public class AbstractUser {
