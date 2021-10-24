@@ -1,3 +1,5 @@
+package com.sport.dao;
+
 import java.util.*;
 
 public class SecurityConfig {

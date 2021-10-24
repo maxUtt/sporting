@@ -1,3 +1,5 @@
+package com.sport.model;
+
 public class Student extends AbstractUser {
     private int grade;
 

@@ -1,13 +1,13 @@
 <a href="${pageContext.request.contextPath}/admin">
-    Admin
+    com.sport.model.Admin
 </a>
 -
 <a href="${pageContext.request.contextPath}/teacher">
-    Teacher
+    com.sport.model.Teacher
 </a>
 -
 <a href="${pageContext.request.contextPath}/student">
-    Student
+    com.sport.model.Student
 </a>
 -
 <a href="${pageContext.request.contextPath}/userInfo">

@@ -1,3 +1,10 @@
+package com.sport.dao;
+
+import com.sport.model.AbstractUser;
+import com.sport.model.Admin;
+import com.sport.model.Student;
+import com.sport.model.Teacher;
+
 import java.util.HashMap;
 import java.util.Map;
 

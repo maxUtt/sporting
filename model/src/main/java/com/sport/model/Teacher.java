@@ -1,3 +1,5 @@
+package com.sport.model;
+
 public class Teacher extends AbstractUser {
     private int salary;
 
