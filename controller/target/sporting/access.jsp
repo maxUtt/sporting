@@ -1,10 +1,12 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Admin</title>
+    <title>Access</title>
 </head>
 <body>
     <jsp:include page="header.jsp"></jsp:include>
-    <p>Dear ${loginedUser.name} this is your page</p>
+    <br>
+    <br>
+    <h4 style="color:red;">Access close!</h4>
 </body>
 </html>

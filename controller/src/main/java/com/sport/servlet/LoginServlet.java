@@ -47,7 +47,7 @@ public class LoginServlet extends HttpServlet {
         if (requestUri != null) {
             resp.sendRedirect(requestUri);
         } else {
-            resp.sendRedirect(req.getContextPath() + "userInfo.jsp");
+            resp.sendRedirect(req.getContextPath() + "/userInfo.jsp");
         }
     }
 }
